@@ -1,0 +1,12 @@
+.OA-body {
+	display: flex;
+	width: 100%;
+}
+
+.OA-container {
+	width: 100%;
+}
+
+.OA-column {
+	flex: 1;
+}
